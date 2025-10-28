@@ -1,0 +1,15 @@
+.venv/
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.idea/
+*.log
+coverage/
+dist/
+build/
+*.egg-info/
+.ipynb_checkpoints/
+*.swp
+*~
